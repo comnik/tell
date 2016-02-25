@@ -1,2 +1,3 @@
 watch/*
 !watch/CMakeLists.txt
+build/

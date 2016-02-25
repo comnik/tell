@@ -4,11 +4,11 @@
 	branch = master
 [submodule "telljava"]
 	path = telljava
-	url = ../telljava.git
+	url = https://github.com/tellproject/telljava.git
 	branch = master
 [submodule "telldb"]
 	path = telldb
-	url = ../telldb.git
+	url = https://github.com/tellproject/telldb.git
 	branch = master
 [submodule "commitmanager"]
 	path = commitmanager
@@ -16,9 +16,9 @@
 	branch = master
 [submodule "crossbow"]
 	path = crossbow
-	url = ../crossbow.git
+	url = https://github.com/tellproject/crossbow.git
 	branch = master
 [submodule "bdtree"]
 	path = bdtree
-	url = ../bdtree.git
+	url = https://github.com/tellproject/bdtree.git
 	branch = master
